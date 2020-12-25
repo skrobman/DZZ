@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/skrobman/C++/Dz na 26.12.20/Zadanie III/cmake-build-debug/CMakeFiles/Zadanie_III.dir
+C:/Users/User/Desktop/skrobman/C++/Dz na 26.12.20/Zadanie III/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/skrobman/C++/Dz na 26.12.20/Zadanie III/cmake-build-debug/CMakeFiles/rebuild_cache.dir
