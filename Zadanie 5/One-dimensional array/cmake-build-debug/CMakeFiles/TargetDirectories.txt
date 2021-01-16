@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/skrobman/C++/Dz na 16.01.21/Zadanie 5/One-dimensional array/cmake-build-debug/CMakeFiles/One_dimensional_array.dir
+C:/Users/User/Desktop/skrobman/C++/Dz na 16.01.21/Zadanie 5/One-dimensional array/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/skrobman/C++/Dz na 16.01.21/Zadanie 5/One-dimensional array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
