@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/skrobman/C++/Classes/cmake-build-debug/CMakeFiles/Classes.dir
+C:/Users/User/Desktop/skrobman/C++/Classes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/skrobman/C++/Classes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
